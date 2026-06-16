@@ -1,0 +1,155 @@
+Patient ID,First Name,Last Name,Age,Gender,Date of Birth,Phone,Email,City,Visit Date,Visit Type,Primary Diagnosis,Blood Pressure,Temperature C,Weight kg,Insurance Provider,Total Bill,Amount Paid,Payment Status,Clinician,Notes
+p0001,Abena,Adebayo,unknown,Other,,+233 24 328 3286,not available,Ibadan,2026-01-09,Vaccination,Malaria,105,normal,97.7,Corporate,74.34,one hundred,Partially Paid,Dr Okoro,Needs follow-up
+PAT2,Mary,Osei,unknown,Other,,+233 24 718 5333,mary.osei@email.com,Tema,"May 22, 2026",Routine Checkup,None,168/72,normal,,PRIVATE,501.05,0,Partially Paid,Dr. Lee,
+p0003,Ibrahim,Ali,88,Femal,1938-09-24,55555,ibrahim.ali@email.com,Tamale,2026-02-28,Vaccination,hypertension,,99.5,,,486.93,486.93,paid,DR MENSAH,Needs follow-up
+P-0004,Samuel,Owusu,-3,female,,55555,samuel_owusu@clinicmail.org,Cape Coast,,Emergency,Back pain,127/95,normal,eighty,NHIS,241.34,one hundred,,Dr. Patel,
+P-0005,Ruth,Williams,130,Female,,823-303-3504,ruth98@gmail,Lagos,2026/13/01,Routine Checkup,,,normal,,Private,552.73,,PENDING,Nurse Amina,Patient came late
+p0006,Fatima,Diallo,130,Female,,55555,not available,Accra,,CONSULT,Diabetes,123/64,,3.8,Corporate,541.78,244.61,paid,Dr. Lee,Needs follow-up
+1007,David,Owusu,130,,,55555,,Kumasi,,follow up,Malaria,178/101,37.3,,nhis,290.87,-10,Refunded,Dr Okoro,Patient came late
+p0008,Peter,Taylor,13,Femal,2013-02-25,+233 24 516 8956,not available,Accra,,CONSULT,Hypertension,169,,37.7,NHIS,173.82,,PENDING,Nurse Amina,Patient came late
+P-0009,Kwame,Mbeki,,,,,kwame.mbeki@email.com,Kano,2026-06-08,Follow-up,Diabetes,,normal,56.5,Corporate,263.15,one hundred,Unpaid,DR MENSAH,
+PAT10,Clara,Smith,unknown,,,+233 24 261 8179,clara_smith@clinicmail.org,Tema,2026-03-18,Consultation,Diabetes,120-80,normal,eighty,,564.58,564.58,Paid,Dr. Mensah,Patient came late
+p0011,Joseph Williams,,unknown,M,,+233 24 859 8239,joseph89@gmail,,2026-05-20,Follow-up,Migraine,,37.1,,,504.07,293.63,,Nurse Amina,missing lab results
+1012,Emeka,Johnson,,male,,621-921-5065,emeka.johnson@email.com,,2026-04-08,,Pregnancy,120-80,100.9,41.4,PRIVATE,517.98,,Paid,Dr. Patel, allergy: penicillin 
+1013,Chinedu,Addo,34,female,,N/A,chinedu74@gmail,Tamale,2026-03-07,Vaccination,None,high,normal,75.9,,431.1,one hundred,,Dr. Patel,missing lab results
+1014,David,Owusu,-3,mal,,615-661-1006,david37@gmail,Ibadan,2026/13/01,Follow-up,,107,,eighty,Corporate,371.86,,Unpaid,Dr. Lee,Patient came late
+1015,Fatima,Mensah,,,,55555,not available,Kumasi,,Routine Checkup,None,120-80,103.6,,PRIVATE,161.51,161.51,paid,,
+1016,Blessing,Taylor,,Other,,N/A,blessing81@gmail,Cape Coast,,CONSULT,Skin rash,194,96.4,,N/A,64.94,0,Unpaid,,
+PAT17,Musa,Williams,75,Other,01/08/1950,,not available,Kano,"Feb 26, 2026",Consultation,Diabetes,high,,300,,272.78,0,paid,Nurse Amina,
+p0018,Kwame,Ali,unknown,M,,N/A,kwame.ali@email.com,Kumasi,2026-05-01,Routine Checkup,None,123/101,,300,Private,454.43,0,Unpaid,Nurse ama,Needs follow-up
+,Victoria,Ali,,male,,518-210-1420,not available,Tamale,12/04/2026,follow up,None,,39.7,300,PRIVATE,64.08,-10,,DR MENSAH,
+p0020,Ama,Yakubu,63,,27/11/1962,N/A,not available,Abuja,"Jun 01, 2026",CONSULT,DIABETES,high,normal,eighty,nhis,206.94,206.94,PENDING,Dr. Patel,Needs follow-up
+Patient ID,First Name,Last Name,Age,Gender,Date of Birth,Phone,Email,City,Visit Date,Visit Type,Primary Diagnosis,Blood Pressure,Temperature C,Weight kg,Insurance Provider,Total Bill,Amount Paid,Payment Status,Clinician,Notes
+P-0021,David,Mensah,,male,,55555,not available,accra,2026-04-25,Routine Checkup,Flu,164,normal,300,nhis,73.97,-10,Paid,Dr. Lee, allergy: penicillin 
+p0022,Joseph,Adebayo,,Male,,,joseph.adebayo@email.com,Kano,"Feb 19, 2026",Vaccination,Back pain,163/68,,-5,N/A,151.94,151.94,Unpaid,Dr. Mensah,
+P-0023,Aisha,Bello,15,mal,10-21-2011,,not available,accra,2026/13/01,Follow-up,DIABETES,high,100.3,300,Corporate,478.63,one hundred,Partially Paid,Dr Okoro,
+P-0024,Chinedu,Johnson,130,F,,661-805-8699,chinedu5@gmail,Tema,"Mar 15, 2026",Emergency,Diabetes,180,103.4,,NHIS,427.73,-10,Partially Paid,Dr. Patel,missing lab results
+1025,Peter,Adebayo,unknown,F,,N/A,,Kano,"Jun 04, 2026",follow up,None,,,-5,N/A,35.0,-10,paid,DR MENSAH, allergy: penicillin 
+PAT26,Sarah,Acheampong,42,female,23/07/1983,665-190-6153,sarah.acheampong@email.com,Tamale,2026/13/01,Emergency,Flu,120-80,100.6,76.2,N/A,498.46,one hundred,paid,Dr Okoro,Needs follow-up
+p0027,Ama,Kamara,,male,,N/A,ama16@gmail,Tamale,"May 08, 2026",Vaccination,,138,,eighty,NHIS,315.15,,Partially Paid,Nurse ama,Repeated record?
+1028,Yusuf,Owusu,130,Femal,,55555,yusuf_owusu@clinicmail.org,Kano,09/04/2026,CONSULT,,high,,61.0,Private,516.49,0,paid,Dr Okoro,Needs follow-up
+1029,Ruth,Cole,,Female,,680-900-5342,not available,Cape Coast,"Jan 21, 2026",Follow-up,DIABETES,high,39.8,eighty,Private,514.36,,,Dr. Patel,Needs follow-up
+P-0030,Clara,Mensah,unknown,Male,,,clara_mensah@clinicmail.org,Enugu,16/02/2026,Vaccination,None,high,96.3,-5,None,121.54,,Partially Paid,Dr. Patel, allergy: penicillin 
+PAT31,Abena,Yakubu,-3,male,,,abena_yakubu@clinicmail.org,Abuja,"Mar 17, 2026",Lab test,COVID-19,130/60,normal,,nhis,32.72,,,Nurse Amina,Patient came late
+p0032,Abena,Adebayo,81,M,19/01/1944,0246481437,abena_adebayo@clinicmail.org,,2026/13/01,follow up,,,39.2,57.8,PRIVATE,311.04,84.77,paid,Dr. Mensah,Needs follow-up
+PAT33,Aisha,Taylor,-3,female,,55555,not available,Enugu,2026/13/01,Follow-up,Diabetes,high,97.7,16.7,Corporate,532.86,one hundred,Unpaid,,
+1034,Peter,Abiola,130,Female,,,,Enugu,"Jan 09, 2026",Follow-up,None,,normal,eighty,Corporate,146.02,64.93,PENDING,Dr. Mensah,Needs follow-up
+,Kwame,Acheampong,,male,,800-321-4817,kwame_acheampong@clinicmail.org,Accra,"Jan 01, 2026",Emergency,Flu,120-80,,,NHIS,517.88,74.93,paid,Dr Okoro,Patient came late
+PAT36,Michael,Smith,-3,F,,55555,michael_smith@clinicmail.org,Lagos,,Emergency,Flu,146/87,37.8,eighty,PRIVATE,393.14,,PENDING,Dr. Patel,Patient came late
+P-0037,Peter,Mbeki,-3,Female,,N/A,not available,accra,,CONSULT,DIABETES,120-80,38.8,100.3,None,443.18,0,PENDING,DR MENSAH,Repeated record?
+1038,Ibrahim,Adebayo,unknown,Femal,,+233 24 988 1842,ibrahim_adebayo@clinicmail.org,Accra,24/02/2026,Vaccination,Hypertension,139/95,100.2,300,None,400.91,400.91,Refunded,Dr. Patel,Patient came late
+p0039,Emeka,Acheampong,45,Female,,+233 24 679 7566,emeka_acheampong@clinicmail.org,Tema,,Routine Checkup,None,121,,300,,263.5,0,paid,,
+,Aisha,Boateng,66,Femal,05-22-1960,,aisha.boateng@email.com,,"Feb 22, 2026",CONSULT,Diabetes,132/80,,,,568.29,0,Paid,,Patient came late
+,Ama,Cole,unknown,male,,+233 24 539 7626,ama42@gmail,Kumasi,,Follow-up,Skin rash,high,99.7,eighty,Private,502.58,502.58,Unpaid,DR MENSAH,Needs follow-up
+p0042,Linda,Lawal,,,,55555,linda10@gmail,Lagos,,Routine Checkup,Back pain,198,normal,eighty,nhis,289.09,one hundred,PENDING,Dr. Mensah,Needs follow-up
+1043,Linda,Mbeki,unknown,Female,,+233 24 562 1616,linda.mbeki@email.com,Ibadan,2026/13/01,Follow-up,Skin rash,196,97.9,61.7,None,GHS 314.1,one hundred,,Nurse ama,Repeated record?
+p0044,Peter,Mbeki,130,Other,,55555,peter.mbeki@email.com,Kumasi,"Jun 11, 2026",Follow-up,Flu,112,,eighty,,58.23,-10,Partially Paid,Nurse Amina,missing lab results
+P-0045,Ibrahim,Adams,130,mal,,570-118-6940,ibrahim24@gmail,Cape Coast,,Emergency,Malaria,104/78,37.9,300,None,131.36,131.36,Refunded,Nurse Amina,Needs follow-up
+PAT46,Michael,Cole,-3,F,,0248452417,michael69@gmail,Tema,,Consultation,None,,99.5,,N/A,544.31,-10,PENDING,Dr Okoro,Patient came late
+P-0047,Victoria,Mbeki,unknown,male,,N/A,victoria12@gmail,Kumasi,"Apr 26, 2026",Emergency,Hypertension,high,40.5,40.3,nhis,559.67,,paid,Nurse Amina,missing lab results
+,Nana,Adams,-3,Femal,,,nana_adams@clinicmail.org,Accra,,,COVID-19,high,38.6,-5,Corporate,84.49,0,Partially Paid,,Patient came late
+,Ama,Eze,,male,,,ama_eze@clinicmail.org,Kumasi,2026/13/01,Consultation,Migraine,,39.2,43.3,PRIVATE,31.79,31.79,Unpaid,Nurse ama,Patient came late
+p0050,Victoria,Bello,,Female,,0241620485,,Ibadan,2026/13/01,follow up,Pregnancy,120-80,36.7,eighty,N/A,,450.00,Paid,DR MENSAH, allergy: penicillin 
+,Chinedu,Bello,unknown,Other,,,,Tema,2026-01-27,Consultation,Diabetes,120-80,38.9,eighty,,210.19,,Refunded,Nurse Amina,Patient came late
+P-0052,Ama,Owusu,-3,Female,,997-760-7001,ama_owusu@clinicmail.org,Accra,2026/13/01,Emergency,Back pain,142/88,99.8,eighty,,108.99,0,Paid,Dr. Patel,Needs follow-up
+,Nana,Ali,,Female,,N/A,not available,Abuja,"Jan 23, 2026",Emergency,Asthma,,,300,N/A,GHS 407.35,one hundred,PENDING,DR MENSAH,Needs follow-up
+P-0054,Peter,Taylor,130,Femal,,,not available,Accra,2026-05-28,Follow-up,Skin rash,167,,,None,92.69,92.69,Unpaid,DR MENSAH,Repeated record?
+,Emeka,Adams,unknown,Male,,0245204459,,,2026/13/01,Vaccination,None,101,39.0,99.6,Corporate,74.19,one hundred,paid,Dr. Mensah,
+PAT56,Esther,Kamara,unknown,Femal,,55555,esther8@gmail,Lagos,,CONSULT,Asthma,,102.7,eighty,N/A,300.87,one hundred,paid,Dr. Lee,Patient came late
+1057,Fatima,Adebayo,unknown,Male,,,,Tema,18/02/2026,Routine Checkup,COVID-19,134/91,,eighty,N/A,308.99,,Paid,Dr Okoro,
+1058,Sarah,Owusu,unknown,male,,252-683-4189,,Kumasi,,Lab test,COVID-19,174/103,normal,eighty,,312.47,0,Paid,Dr. Mensah,Patient came late
+,Fatima,Adams,-3,female,,0249648751,fatima_adams@clinicmail.org,accra,2026/13/01,Consultation,COVID-19,,normal,-5,N/A,215.1,one hundred,,Dr. Lee,Patient came late
+p0060,Michael,Okafor,-3,Femal,,,michael.okafor@email.com,Ibadan,2026-02-18,Routine Checkup,Skin rash,144,40.1,300,,275.8,,Unpaid,Nurse ama,Needs follow-up
+PAT61,Emeka,Taylor,130,Femal,,,emeka39@gmail,Cape Coast,"Mar 18, 2026",follow up,,124,normal,300,PRIVATE,428.84,,Refunded,Nurse Amina,missing lab results
+1062,Daniel,Okafor,37,Femal,11-09-1988,0245548852,daniel_okafor@clinicmail.org,Kumasi,31/05/2026,follow up,None,123/100,98.0,,N/A,160.63,one hundred,Unpaid,Dr. Patel,
+,Joseph,Brown,83,,1943-11-19,+233 24 856 1611,not available,Tema,"Feb 17, 2026",Lab test,DIABETES,,103.9,,Private,528.51,one hundred,,Nurse ama,Patient came late
+p0064,Abena,Ali,24,female,2001-10-22,N/A,abena.ali@email.com,,17/02/2026,CONSULT,hypertension,high,normal,300,Corporate,296.92,296.92,Paid,Nurse ama,
+PAT65,Daniel,Ndlovu,130,Femal,,0245949909,not available,Enugu,,,hypertension,176,,300,PRIVATE,453.69,,PENDING,Dr Okoro,
+,Kwame,Taylor,,Male,,N/A,kwame15@gmail,Cape Coast,,Vaccination,,high,95.5,eighty,NHIS,72.75,72.75,PENDING,Dr Okoro,missing lab results
+PAT67,Kwame,Yakubu,45,Male,1981-02-16,984-756-7887,not available,Tema,,Routine Checkup,None,,103.9,,,66.54,one hundred,Refunded,Dr. Lee,
+PAT68,Samuel,Cole,,Femal,,0241540516,samuel.cole@email.com,Tema,2026/13/01,Lab test,,101/75,,91.3,PRIVATE,39.47,-10,Refunded,DR MENSAH,Needs follow-up
+p0069,Samuel,Brown,130,,,55555,not available,Abuja,,Lab test,Flu,180,,,None,47.19,-10,Paid,,Patient came late
+1070,Sarah,Taylor,,Male,,N/A,sarah.taylor@email.com,Abuja,18/05/2026,Lab test,hypertension,172/62,,eighty,Private,49.89,one hundred,Refunded,Nurse ama, allergy: penicillin 
+1071,Emeka,Johnson,,F,,55555,,Accra,"Mar 08, 2026",Vaccination,Skin rash,,98.3,,,317.43,317.43,Unpaid,DR MENSAH,missing lab results
+1072,Samuel,Osei,,Male,,55555,not available,Accra,28/04/2026,follow up,Malaria,103,40.4,101.2,Corporate,445.01,156.72,Unpaid,Dr. Mensah,missing lab results
+P-0073,Grace,Mbeki,unknown,M,,,grace.mbeki@email.com,Abuja,2026/13/01,,Flu,high,39.5,300,PRIVATE,438.87,0,paid,Dr Okoro,Needs follow-up
+p0074,Linda,Osei,130,Male,,55555,linda.osei@email.com,Abuja,,Lab test,,120-80,normal,69.2,N/A,239.97,239.97,Paid,Dr. Patel,Patient came late
+PAT75,Clara,Taylor,73,Female,,+233 24 116 4394,clara39@gmail,Cape Coast,25/05/2026,Lab test,,120-80,39.4,eighty,Private,348.68,-10,Refunded,,
+1076,Nana,Acheampong,unknown,Female,,0246969521,nana_acheampong@clinicmail.org,Lagos,2026-04-08,Consultation,Flu,120-80,,eighty,N/A,467.86,138.2,Partially Paid,Dr Okoro, allergy: penicillin 
+1077,Fatima,Smith,-3,Other,,305-126-2468,fatima.smith@email.com,Kumasi,2026/13/01,Emergency,Flu,132/86,,,nhis,474.97,474.97,Unpaid,Dr Okoro,missing lab results
+PAT78,Chinedu,Yakubu,-3,M,,,chinedu79@gmail,Enugu,2026-04-28,CONSULT,Malaria,,,300,,98.58,,Partially Paid,Nurse ama,missing lab results
+PAT79,Hannah,Johnson,-3,female,,,hannah70@gmail,Abuja,2026-05-21,Vaccination,None,,95.6,,None,572.74,-10,Refunded,,missing lab results
+,Mary,Cole,-3,Female,,+233 24 510 9755,mary_cole@clinicmail.org,Accra,2026-06-02,Follow-up,Flu,162,103.9,eighty,Corporate,83.43,-10,PENDING,Dr. Lee,Repeated record?
+,Peter,Abiola,-3,Female,,+233 24 807 9199,not available,Tema,2026-01-22,Consultation,DIABETES,120-80,38.0,-5,Private,GHS 502.16,0,Partially Paid,Dr Okoro, allergy: penicillin 
+p0082,Ibrahim,Ndlovu,130,Female,,0246553084,ibrahim52@gmail,Tamale,,Emergency,Migraine,high,normal,91.0,PRIVATE,249.44,183.93,Paid,Dr. Patel,Patient came late
+,Ibrahim,Bello,unknown,Other,,,,Cape Coast,2026/13/01,Emergency,Back pain,120-80,96.3,,None,69.16,69.16,paid,Dr. Patel,Patient came late
+,Fatima,Ndlovu,-3,female,,N/A,fatima_ndlovu@clinicmail.org,Kumasi,,Routine Checkup,COVID-19,90,normal,,N/A,417.12,,Paid,Dr Okoro,Patient came late
+,Aisha,Williams,unknown,Other,,+233 24 942 1681,aisha95@gmail,Kumasi,2026-03-18,Emergency,DIABETES,120-80,normal,300,Corporate,280.84,280.84,Refunded,Dr. Mensah,missing lab results
+,Hannah,Abiola,unknown,F,,,hannah_abiola@clinicmail.org,Kano,25/01/2026,Vaccination,None,120-80,,-5,,578.41,578.41,Paid,Dr Okoro,Repeated record?
+1087,Musa,Mbeki,unknown,Female,,55555,,,2026/13/01,Routine Checkup,Hypertension,,100.2,95.2,Private,250.68,242.69,Unpaid,Nurse ama,
+p0088,Peter,Mensah,,Femal,,480-195-6905,,,2026-02-12,Routine Checkup,Hypertension,124/87,95.0,300,NHIS,249.88,-10,Refunded,Dr Okoro,Needs follow-up
+P-0089,Yusuf,Yakubu,-3,F,,+233 24 334 7276,,Cape Coast,18/03/2026,Routine Checkup,,177/103,,,Corporate,241.98,196.82,Paid,Nurse Amina,missing lab results
+PAT90,Nana,Adebayo,-3,,,0243345961,nana_adebayo@clinicmail.org,Cape Coast,2026/13/01,Follow-up,Asthma,106,96.7,37.6,N/A,185.25,185.25,Paid,Dr. Mensah,Needs follow-up
+,Linda,Acheampong,-3,mal,,+233 24 530 6986,linda.acheampong@email.com,Kumasi,"Jan 04, 2026",Vaccination,Diabetes,160,98.8,300,nhis,145.13,,Unpaid,Nurse Amina,Patient came late
+P-0092,David,Acheampong,130,male,,N/A,not available,Kumasi,2026/13/01,Vaccination,hypertension,120-80,normal,eighty,Private,51.92,-10,Paid,DR MENSAH,Needs follow-up
+P-0093,Tunde,Yakubu,130,Other,,+233 24 369 2262,tunde_yakubu@clinicmail.org,Kumasi,"Feb 12, 2026",Emergency,,174,35.2,-5,NHIS,111.24,one hundred,,, allergy: penicillin 
+PAT94,Samuel,Acheampong,-3,mal,,0247254683,samuel_acheampong@clinicmail.org,Abuja,,Routine Checkup,Migraine,91,normal,eighty,N/A,59.98,0,Refunded,Dr. Lee,missing lab results
+P-0095,Michael,Taylor,,Female,,754-454-1157,not available,Kano,2026-03-20,Follow-up,Skin rash,,103.3,eighty,None,139.01,,paid,Dr Okoro,Repeated record?
+p0096,Hannah,Addo,-3,Femal,,55555,,Ibadan,,Lab test,Back pain,178,96.0,-5,nhis,177.73,13.27,Refunded,Dr Okoro,
+,Mary,Ndlovu,unknown,F,,351-193-5066,mary_ndlovu@clinicmail.org,Abuja,"Jan 13, 2026",follow up,Migraine,151,,17.2,Private,170.9,170.9,Partially Paid,Dr Okoro,Needs follow-up
+p0098,Ama,Smith,-3,M,,0243055673,not available,,,Vaccination,Back pain,120-80,,300,,37.1,25.35,paid,Dr. Mensah,Patient came late
+1099,Mary,Ali,,,,+233 24 304 9614,,Tamale,2026/13/01,CONSULT,DIABETES,,,eighty,Corporate,473.23,one hundred,Paid,Dr. Lee,
+P-0100,Ibrahim,Johnson,130,Male,,0247516648,ibrahim_johnson@clinicmail.org,Lagos,"Mar 23, 2026",Consultation,Asthma,120-80,96.7,,Corporate,GHS 550.11,-10,paid,Dr. Mensah,Repeated record?
+PAT101,Joseph,Eze,,,,,joseph91@gmail,,2026/13/01,CONSULT,Malaria,179/85,,-5,PRIVATE,519.19,0,PENDING,Nurse Amina,missing lab results
+p0102,Musa,Brown,,male,,0247569981,,Enugu,06/06/2026,Consultation,Flu,113/81,,77.4,Corporate,391.0,,Paid,DR MENSAH,missing lab results
+1103,Aisha,Adebayo,1,Female,14/03/2024,,aisha84@gmail,Ibadan,,Routine Checkup,hypertension,97/80,96.5,21.8,NHIS,62.75,0,,Nurse Amina,Patient came late
+p0104,Kofi,Yakubu,21,F,,0245450404,kofi.yakubu@email.com,,2026/13/01,Vaccination,Diabetes,141/60,101.0,26.4,N/A,338.8,338.8,Partially Paid,,Needs follow-up
+P-0105,Esther,Bello,unknown,Femal,,389-479-7249,not available,Accra,"Jan 12, 2026",follow up,,167/63,98.1,300,,275.05,0,,Nurse ama,Needs follow-up
+P-0106,Hannah,Johnson,unknown,Female,,+233 24 504 1568,not available,Lagos,14/02/2026,follow up,Skin rash,high,,eighty,,583.86,472.03,Refunded,Dr. Patel, allergy: penicillin 
+,Ruth,Cole,130,F,,,ruth_cole@clinicmail.org,Kano,2026-01-26,follow up,Hypertension,high,100.9,eighty,,346.36,0,Partially Paid,Dr. Lee,Repeated record?
+PAT108,Kwame,Lawal,unknown,,,55555,kwame.lawal@email.com,Tamale,28/02/2026,CONSULT,,133,,-5,NHIS,194.28,0,Unpaid,Dr Okoro,missing lab results
+p0109,Daniel,Adams,-3,,,+233 24 899 9589,daniel.adams@email.com,Kumasi,2026-04-27,Routine Checkup,COVID-19,high,38.6,-5,PRIVATE,552.46,0,Refunded,Dr. Patel,Patient came late
+P-0110,Michael,Adams,unknown,female,,0243733132,michael83@gmail,Cape Coast,"Feb 22, 2026",follow up,,120-80,38.6,300,PRIVATE,397.92,-10,Unpaid,Nurse ama, allergy: penicillin 
+1111,Daniel,Diallo,130,Male,,,daniel_diallo@clinicmail.org,Kano,"Jun 05, 2026",follow up,None,,normal,300,PRIVATE,193.12,193.12,,Dr. Mensah,Needs follow-up
+1112,Abena,Bello,unknown,male,,797-825-4111,abena93@gmail,,,Follow-up,Asthma,187,,300,PRIVATE,545.79,one hundred,Refunded,Dr. Patel,Needs follow-up
+,Sarah,Acheampong,unknown,,,N/A,sarah_acheampong@clinicmail.org,Ibadan,,Emergency,Migraine,high,103.0,,NHIS,GHS 327.31,135.21,Partially Paid,Dr. Lee,
+p0114,Nana,Williams,130,F,,N/A,not available,Lagos,2026-04-09,follow up,Skin rash,176,,eighty,nhis,41.88,0,Refunded,Dr. Mensah, allergy: penicillin 
+,Daniel,Brown,130,mal,,N/A,daniel46@gmail,Accra,,Consultation,None,82,37.9,eighty,Private,31.09,6.97,Paid,Dr. Mensah,Patient came late
+1116,Victoria,Adebayo,-3,M,,0245240244,victoria.adebayo@email.com,Kano,,Lab test,DIABETES,120-80,37.4,36.1,nhis,403.77,0,Unpaid,DR MENSAH,Repeated record?
+P-0117,Victoria,Yakubu,,female,,0244484526,victoria.yakubu@email.com,Enugu,2026-01-23,Consultation,Diabetes,106/109,normal,-5,None,504.43,337.47,Refunded,Dr. Patel, allergy: penicillin 
+P-0118,Linda,Diallo,-3,F,,341-779-3793,not available,Lagos,"Jun 09, 2026",Emergency,hypertension,high,97.4,-5,NHIS,529.52,0,Refunded,Nurse Amina,Repeated record?
+,John,Yakubu,-3,Femal,,,john4@gmail,accra,,Follow-up,Pregnancy,,,eighty,Corporate,85.5,85.5,,,Patient came late
+p0120,Fatima,Taylor,79,Female,,369-176-9055,,Enugu,2026-03-13,Consultation,Diabetes,high,37.6,-5,,314.02,,PENDING,Dr. Mensah, allergy: penicillin 
+PAT121,Blessing,Smith,130,Female,,0248653898,,Accra,2026/13/01,Emergency,Back pain,120-80,normal,eighty,None,367.97,0,,,missing lab results
+p0122,John,Ali,,Male,,55555,john.ali@email.com,Tamale,2026-04-17,follow up,,high,,115.8,N/A,557.44,one hundred,Refunded,Nurse Amina,Patient came late
+P-0123,Victoria,Addo,,female,,593-528-5067,,,,CONSULT,None,187,,300,None,486.78,one hundred,,Nurse Amina,missing lab results
+P-0124,Ruth,Taylor,unknown,Male,,55555,ruth_taylor@clinicmail.org,accra,,Vaccination,Asthma,143/69,,eighty,NHIS,488.82,488.82,paid,Dr Okoro,Needs follow-up
+,Kofi,Diallo,,mal,,N/A,not available,Abuja,2026/13/01,Lab test,Flu,high,normal,300,N/A,51.21,38.08,,Dr Okoro,missing lab results
+p0126,Chinedu,Ndlovu,66,Female,18/05/1959,+233 24 264 5178,,Tamale,2026-06-02,Emergency,Pregnancy,181,normal,,,468.72,-10,Unpaid,Dr. Lee,Patient came late
+PAT127,Ibrahim,Acheampong,unknown,female,,+233 24 323 9691,,Accra,25/04/2026,,,,37.2,300,PRIVATE,544.61,one hundred,PENDING,Nurse ama,missing lab results
+PAT128,Esther,Okafor,,Female,,,esther.okafor@email.com,Lagos,23/02/2026,Consultation,Malaria,high,,eighty,nhis,521.67,521.67,PENDING,Dr. Lee,
+1129,Emeka,Ali,-3,Other,,55555,emeka_ali@clinicmail.org,Cape Coast,2026/13/01,Consultation,Back pain,198,normal,eighty,None,56.68,56.68,Unpaid,,Repeated record?
+PAT130,Tunde,Taylor,,female,,+233 24 793 7113,tunde.taylor@email.com,Abuja,2026/13/01,Follow-up,Malaria,,,,NHIS,248.57,248.57,PENDING,Nurse ama,Patient came late
+P-0131,Abena,Taylor,unknown,Other,,943-694-8982,abena46@gmail,Kumasi,2026-03-02,Consultation,Migraine,,,eighty,Corporate,185.38,12.94,,, allergy: penicillin 
+1132,Aisha,Abiola,unknown,mal,,,aisha14@gmail,Abuja,2026/13/01,Consultation,Skin rash,163/72,39.1,300,nhis,67.54,18.95,PENDING,Nurse ama,Repeated record?
+1133,Abena,Williams,unknown,Male,,+233 24 328 5767,,Abuja,2026-05-09,Routine Checkup,Asthma,120-80,,-5,Private,404.35,one hundred,Unpaid,Dr. Mensah, allergy: penicillin 
+1134,Ibrahim,Boateng,unknown,Femal,,+233 24 580 8448,ibrahim_boateng@clinicmail.org,Cape Coast,"Jun 12, 2026",CONSULT,,high,37.1,-5,PRIVATE,504.23,one hundred,paid,Dr. Mensah,Needs follow-up
+p0135,Ruth,Owusu,,mal,,0245711201,ruth_owusu@clinicmail.org,Kano,31/01/2026,Emergency,Malaria,high,96.5,5.6,NHIS,260.48,260.48,Unpaid,Dr. Mensah,Needs follow-up
+1136,Chinedu,Ali,130,Female,,,not available,Abuja,13/02/2026,follow up,Pregnancy,164,normal,300,None,501.61,one hundred,Unpaid,,Patient came late
+,Blessing,Owusu,78,male,,+233 24 714 1639,blessing62@gmail,Kano,2026/13/01,Follow-up,Pregnancy,high,95.4,-5,None,499.96,-10,Refunded,Dr. Lee,Repeated record?
+,Emeka,Smith,130,male,,,emeka.smith@email.com,Kano,2026-05-14,Vaccination,None,120-80,normal,-5,,237.52,0,paid,Nurse ama,Patient came late
+1139,Chinedu,Abiola,130,F,,55555,chinedu.abiola@email.com,Enugu,,follow up,Diabetes,,39.4,21.8,Private,474.2,474.2,Partially Paid,Dr Okoro,
+,Kofi,Okafor,-3,Male,,0245806156,not available,Kumasi,2026-04-23,Follow-up,Flu,84,,eighty,,136.99,one hundred,paid,,Needs follow-up
+,Hannah,Boateng,67,,18/02/1959,N/A,hannah_boateng@clinicmail.org,Cape Coast,"Jan 02, 2026",Routine Checkup,DIABETES,,normal,300,Corporate,121.52,one hundred,Refunded,Nurse ama, allergy: penicillin 
+p0142,Ibrahim,Cole,76,M,02-13-1949,,,Abuja,"Mar 05, 2026",Lab test,,120-80,normal,,nhis,73.95,0,Unpaid,Dr. Lee,Repeated record?
+P-0143,Blessing,Eze,,Femal,,+233 24 222 2285,,Accra,"Jun 08, 2026",,Migraine,103,,-5,,305.56,one hundred,Refunded,Nurse Amina,Repeated record?
+PAT144,Peter,Adebayo,-3,Other,,,,Tema,2026/13/01,Routine Checkup,Malaria,140,96.7,eighty,None,519.87,0,,Dr. Lee, allergy: penicillin 
+,Blessing,Adebayo,,M,,N/A,blessing2@gmail,Tema,,Routine Checkup,,,39.4,,Private,97.99,-10,Partially Paid,Dr. Patel,
+PAT146,Linda,Abiola,130,mal,,,linda_abiola@clinicmail.org,Kano,"Feb 14, 2026",follow up,,128,,eighty,Private,225.96,,Partially Paid,Dr. Lee,Repeated record?
+PAT147,Joseph,Acheampong,unknown,Male,,55555,joseph_acheampong@clinicmail.org,Accra,,follow up,Skin rash,125/102,36.3,-5,Private,117.04,99.98,PENDING,Nurse Amina,Patient came late
+p0148,Mary,Kamara,unknown,mal,,,mary.kamara@email.com,Cape Coast,"Jan 09, 2026",,None,,,-5,nhis,519.01,,paid,Dr. Lee,missing lab results
+PAT149,Tunde,Smith,unknown,Femal,,,tunde98@gmail,Cape Coast,"Mar 30, 2026",follow up,Asthma,high,39.4,,None,292.13,,,,Repeated record?
+P-0150,Blessing,Osei,unknown,Male,,982-919-5454,blessing_osei@clinicmail.org,Tamale,,Consultation,Malaria,high,97.4,25.0,Private,129.04,8.83,Unpaid,Nurse ama,Needs follow-up
+p0006,Fatima,Diallo,130,Female,,55555,not available,Accra,,CONSULT,Diabetes,123/64,,3.8,Corporate,541.78,244.61,paid,Dr. Lee,Needs follow-up
+PAT33,Aisha,Taylor,-3,female,,55555,not available,Enugu,2026/13/01,Follow-up,Diabetes,high,97.7,16.7,Corporate,532.86,one hundred,Unpaid,,
+P-9999,Test,Patient,,,,,,,,,,,,,,,,,,dummy row
