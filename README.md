@@ -21,4 +21,4 @@ The dataset helps data analytics students practice:
 This dataset is fictional and does not contain real patient information.
 
 ## Suggested Use
-Students can clean the dataset using Excel, Python, SQL, Power BI, or R.
+Students can clean the dataset using Power Query in Excel or PowerBI, Python, SQL or R.
